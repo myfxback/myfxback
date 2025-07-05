@@ -40,11 +40,12 @@ By registering with this code, your account is automatically connected to the hi
 
 ---
 
-## 💸 Forex Rebate: The Highest Cashback from XM
+## 💸 Forex Rebate: The Highest Cashback from VIP IB XM 
 
 By using the FXBACK code, traders can earn:
-- 💰 Up to **$12 per lot** on XAU/USD
-- 💰 Up to **$8.1 per lot** on EUR/USD
+- 💰  **$12 per lot** on XAU/USD
+- 💰  **$9 per lot** on GBP/USD
+- 💰  **$8.1 per lot** on EUR/USD
 - 💵 Micro accounts are supported (1 standard lot = 100 micro lots)
 
 Cashback is paid **automatically every day** — no need to request it manually.
