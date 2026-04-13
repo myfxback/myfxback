@@ -34,9 +34,10 @@ We provide:
 
 ## 🧮 Trading Tools
 
-- Lot Size Calculator  
-- Risk Management Calculator  
-- Margin Calculator (coming soon)  
+- Forex Lot Size Calculator  
+- Forex Risk Management Calculator  
+- Forex Margin Calculator 
+- Forex Rebate calculator
 
 👉 Use tools: https://myfxback.com/
 
@@ -44,8 +45,8 @@ We provide:
 
 ## 📊 Why Choose Myfxback?
 
-- ✔ Increase trading profit with rebates  
-- ✔ Simple & powerful tools  
+- ✔ Trusted forex IB since 2013 
+- ✔ Highest Forex Rebate Rate 
 - ✔ Trusted by global traders  
 - ✔ Beginner-friendly platform  
 
