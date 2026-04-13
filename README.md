@@ -1,61 +1,70 @@
-# 🚀 Myfxback – Best Forex Rebate Provider 2025
+<p align="center">
+  <img src="https://myfxback.com/assets/award-badge-DnBCZlYs.png" width="220"/>
+</p>
 
-![Myfxback Award](https://myfxback.com/assets/award-badge-DnBCZlYs.png)
+<h1 align="center">🚀 Myfxback</h1>
 
-Welcome to **Myfxback**, a leading platform for forex rebates, trading tools, and trader education.
+<p align="center">
+Forex Rebates & Trading Tools Platform
+</p>
 
-🏆 Recognized as **Best Forex Rebate Provider 2025**  
-📍 Featured at **Forex Traders Summit Dubai**
+<p align="center">
+🏆 Best Forex Rebate Provider 2025 <br>
+📍 Forex Traders Summit Dubai
+</p>
 
-👉 Visit Website: https://myfxback.com/
+<p align="center">
+👉 https://myfxback.com/
+</p>
 
 ---
 
-## 💰 What is Myfxback?
+## 💰 About Myfxback
 
-**Myfxback** helps forex traders maximize profits through:
+**Myfxback** is a platform built to help forex traders maximize their profits through rebates, tools, and education.
+
+We provide:
 
 - High forex rebates from top brokers  
-- Advanced trading tools  
+- Free trading tools  
 - Risk management solutions  
-- Trading guides for all levels  
+- Trading guides for beginners and professionals  
 
 ---
 
-## 🏆 Award & Recognition
-
-![Award Badge](https://myfxback.com/assets/award-badge-DnBCZlYs.png)
-
-- 🥇 Best Forex Rebate Provider 2025  
-- 🌍 Forex Traders Summit Dubai  
-- 📈 Trusted by global traders  
-
----
-
-## 🧮 Free Trading Tools
+## 🧮 Trading Tools
 
 - Lot Size Calculator  
 - Risk Management Calculator  
 - Margin Calculator (coming soon)  
 
-👉 Try now: https://myfxback.com/
+👉 Use tools: https://myfxback.com/
 
 ---
 
 ## 📊 Why Choose Myfxback?
 
-- ✔ Increase trading profit  
-- ✔ Easy & powerful tools  
-- ✔ Trusted platform  
-- ✔ Beginner friendly  
+- ✔ Increase trading profit with rebates  
+- ✔ Simple & powerful tools  
+- ✔ Trusted by global traders  
+- ✔ Beginner-friendly platform  
+
+---
+
+## 🌍 Global Recognition
+
+Myfxback has been recognized in the trading industry:
+
+- 🥇 Best Forex Rebate Provider 2025  
+- 🌍 Featured at Forex Traders Summit Dubai  
 
 ---
 
 ## 🔗 Resources
 
-- Tools: https://myfxback.com  
-- Guides: https://myfxback.com  
-- Rebates: https://myfxback.com  
+- Website: https://myfxback.com  
+- Forex Tools: https://myfxback.com  
+- Trading Guides: https://myfxback.com  
 
 ---
 
